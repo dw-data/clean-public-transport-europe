@@ -7,10 +7,13 @@ We collected data in three areas:
 ### Definitions
 We have not included door-to-door or special-purpose vehicles since these were not homogeneously categories reported across the board. 
 
+Electric buses include: battery electric buses, fuel cell buses, untracapacitor buses and electric trolley buses.
+
 "Other transport" includes funiculars (eg. Zagreb), ferries (eg. Amsterdam)
 
-Cities:
-Zagreb: Buses include lines connecting the city to Zagreb's county. 
+Cities where the county or province has been considered (buses):
+- Antwerp
+- Zagreb
 
 ### Sources
 
