@@ -15,6 +15,7 @@ Cities where the county, province and/or immediate surroundings have been consid
 - Antwerp
 - Bucharest
 - Paris
+- Stockholm
 - Zagreb
 
 ### Sources
