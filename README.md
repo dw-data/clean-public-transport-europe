@@ -11,8 +11,9 @@ Electric buses include: battery electric buses, fuel cell buses, untracapacitor 
 
 "Other transport" includes funiculars (eg. Zagreb), ferries (eg. Amsterdam)
 
-Cities where the county or province has been considered (buses):
+Cities where the county, province and/or immediate surroundings have been considered (buses):
 - Antwerp
+- Bucharest
 - Zagreb
 
 ### Sources
