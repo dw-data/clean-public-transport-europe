@@ -14,6 +14,7 @@ Electric buses include: battery electric buses, fuel cell buses, untracapacitor 
 Cities where the county, province and/or immediate surroundings have been considered (buses):
 - Antwerp
 - Bucharest
+- Paris
 - Zagreb
 
 ### Sources
