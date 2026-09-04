@@ -4,6 +4,60 @@ We collected data in three areas:
 2. Pledges
 3. Pollution
 
+#### 2. Pledges
+From the pledges we identified, we selected those concerning "buses", "all transport", and "ferries". Since our analysis focused solely on assessing ambition and commitment toward net-zero emissions, we excluded pledges on "metro" and "tram," as these modes of transport do not produce direct GHG emissions.
+
+While reviewing, we ensured no duplicates were taken in account. Pledges too vague (eg. lacking a target and/or goal year) were excluded. 
+
+We scored pledges aiming for net-zero emissions according to the following table:
+<table>
+  <tr>
+    <td>Until 2025</td>
+    <td>3.5 points</td>
+  </tr>
+  <tr>
+    <td>2026-2030</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2031-2035</td>
+    <td>2.5</td>
+  </tr>
+  <tr>
+    <td>2036-2040</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2041-2045</td>
+    <td>1.5</td>
+  </tr>
+  <tr>
+    <td>2046-2050+</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>100% net-zero or no diesel fuels</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>100% electric</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>increase of vehicles</td>
+    <td>0.5</td>
+  </tr>
+  <tr>
+    <td>pledged but status not completed or unknown in target year</td>
+    <td>-0.5</td>
+  </tr>
+  <tr>
+    <td>new vehicles only</td>
+    <td>-0.1</td>
+  </tr>
+</table> 
+
+
 ### Definitions
 We have not included door-to-door or special-purpose vehicles since these were not homogeneously categories reported across the board. 
 
