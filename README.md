@@ -48,7 +48,7 @@ We scored pledges aiming for net-zero emissions according to the following table
     <td>0.5</td>
   </tr>
   <tr>
-    <td>pledged but status not completed or unknown in target year</td>
+    <td>pledged but goal not reached in target year or status unknown </td>
     <td>-0.5</td>
   </tr>
   <tr>
