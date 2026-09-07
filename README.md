@@ -88,3 +88,5 @@ For the years 20xx to 2018, we ran data queries on CDP's browser, filtered by:
 - CDP Region: Europe
 - Question Name: Please provide the total fleet size and number of vehicle types
 - Column Name: Number of Buses
+
+EEA: https://www.eea.europa.eu/en/datahub/datahubitem-view/3b7fe76c-524a-439a-bfd2-a6e4046302a2
