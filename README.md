@@ -4,6 +4,8 @@ We collected data in three areas:
 2. Pledges
 3. Pollution
 
+Caveat on transport reporting: Ostrava, for example, there are currently no diesel buses actively in operation. However, the city still includes diesel buses in its statistics because they keep them as backup vehicles. This might lead to small difference in vehicles reported and vehicles active in the city
+
 #### 2. Pledges
 From the pledges we identified, we selected those concerning "buses", "all transport", and "ferries". Since our analysis focused solely on assessing ambition and commitment toward net-zero emissions, we excluded pledges on "metro" and "tram," as these modes of transport do not produce direct GHG emissions.
 
