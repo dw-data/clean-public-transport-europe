@@ -94,3 +94,7 @@ For the years 20xx to 2018, we ran data queries on CDP's browser, filtered by:
 EEA: 
 https://www.eea.europa.eu/en/datahub/datahubitem-view/3b7fe76c-524a-439a-bfd2-a6e4046302a2
 https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers?activeTab=570bee2d-1316-48cf-adde-4b640f92119b
+
+
+Material Móvil que el dato equivalente en trenes que podéis indicar sería 389 trenes (a 31 de diciembre de 2025). Si es posible, podéis especificar que corresponde a un parque móvil de 2.085 coches.
+ 
