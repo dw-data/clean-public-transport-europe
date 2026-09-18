@@ -97,4 +97,8 @@ https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-da
 
 
 Material Móvil que el dato equivalente en trenes que podéis indicar sería 389 trenes (a 31 de diciembre de 2025). Si es posible, podéis especificar que corresponde a un parque móvil de 2.085 coches.
+
+Berlin: 1216 wagons: Eine Zuganzahl pro Tag ist nicht aussagekräftig darstellbar. Da die Taktung je nach Tageszeit und Wochentag variiert und auch die Zahl der Züge, die im laufenden Betrieb getauscht werden, keine konstante Größe ist, lässt sich keine aussagekräftige Durchschnittszahl angeben.
+ 
+Folgenden Wert können Sie aber verwenden, wenn es um die Zahl der Züge geht. In den Hauptverkehrszeiten sind rund 150 Züge gleichzeitig im Berliner U-Bahnnetz unterwegs.
  
