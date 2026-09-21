@@ -1,10 +1,56 @@
-# clean-public-transport-europe
-We collected data in three areas:
+# How green is urban public transport in Europe?
+
+Together with EDJNet partners (Deník Referendum, Voxeurop, EUrologus, OBCT), we dug into how sustainable public transport is in European cities, particularly buses, metros, and trams. We also looked into GHG emissions levels in relation to EU targets and cities' sustainable transport commitments. 
+
+<li>Idea, analysis, text, charts: <i>Ana Muñoz Padrós</i></li>
+<li>Editing: <i>Gianna-Carina Grün, Sarah Steffen</i></li>
+<li>Fact-checking: <i>Eva López</i></li>
+<li>Vertical video:</li>
+<li>Data collection:</li>
+<ul>
+  <li>EDJNet: 
+  <i>Anna Absolonová, Gian-Paolo Accardo, Kata Moravecz, Giovanni Vale</i>
+  </li>
+  <li>DW: 
+  <i>Farah Bahgat, Gianna-Carina Grün, Rodrigo Menegat Schuinski, Ana Muñoz Padrós, Julian Peschel, Emmy Sasipornkarn, Kira Schacht</i>
+  </li>
+</ul>
+
+## Scope
+<b>Geographical scope:</b> All EU capitals and a few additional cities chosen by our partners (Antwerp, Lyon, Brno, Ostrava, Košice, Prešov).
+
+Antwerp, Bucharest, Paris, Stockholm and Zagreb include surrounding suburbia and/or county/province data. 
+
+<b>Timeframe</b>: We gathered 2010-2026 city data and analysed 2016-2026 data. 
+
+<b>Modes of transport:</b> We have focused on motorised public mass transportation. Our data collection included buses, metro, tram, urban rail, and other transport. "Other transport" includes funiculars (eg. Zagreb), ferries (eg. Amsterdam).
+
+Walking and cycling were therefore excluded from our scope, as well as motorbikes, taxis and all private vehicles.
+
+We have not included door-to-door or special-purpose vehicles because these categories were not homogeneously reported across the board. 
+
+<b>Areas:</b> We collected local data in three areas:
 1. Transport
 2. Pledges
 3. Pollution
 
+## Data collection and sources
+
+<p>Each data collector was assigned a number of cities. Transport, pledges and pollution data were collected from city councils, local transport authorities and operators. 
+  
+In some cases, we relied on secondary sources:</p>
+- UITP's ASSURED Clean Bus Report (8 data points in 'Transport data'). UITP is the International Association of Public Transport <a href="https://www.uitp.org/publications/assured-clean-bus-report/">link</a>
+- CDP Full Cities Public Data & Separated by Question datasets (56 data points in 'Transport data' and 8 data points in 'Pollution'; modes of transport shares). CDP is a global non-profit running an environmental reporting system for cities and companies. These datasets are collected in partnership by CDP and ICLEI - Local Governments for Sustainability. <a href="https://data.cdp.net/">link</a>
+
+Each source can be consulted in our public database. 
+
+## Analysis
+#### 1. Transport
+ 
+
 Caveat on transport reporting: Ostrava, for example, there are currently no diesel buses actively in operation. However, the city still includes diesel buses in its statistics because they keep them as backup vehicles. This might lead to small difference in vehicles reported and vehicles active in the city
+
+Electric buses include: battery electric buses, fuel cell buses, untracapacitor buses and electric trolley buses.
 
 #### 2. Pledges
 From the pledges we identified, we selected those concerning "buses", "all transport", and "ferries". Since our analysis focused solely on assessing ambition and commitment toward net-zero emissions, we excluded pledges on "metro" and "tram," as these modes of transport do not produce direct GHG emissions.
@@ -60,21 +106,10 @@ We scored pledges aiming for net-zero emissions according to the following table
 </table> 
 
 
-### Definitions
-We have not included door-to-door or special-purpose vehicles since these were not homogeneously categories reported across the board. 
-
-Electric buses include: battery electric buses, fuel cell buses, untracapacitor buses and electric trolley buses.
-
-"Other transport" includes funiculars (eg. Zagreb), ferries (eg. Amsterdam)
-
-Cities where the county, province and/or immediate surroundings have been considered (buses):
-- Antwerp
-- Bucharest
-- Paris
-- Stockholm
-- Zagreb
 
 ### Sources
+
+Each data collector 
 
 CDP Full Cities Public Data Separated by Question datasets. CDP is a global non-profit running an environmental reporting system for cities and companies. These datasets are collected in partnership by CDP and ICLEI - Local Governments for Sustainability.
 
