@@ -27,7 +27,9 @@ Antwerp, Bucharest, Paris, Stockholm and Zagreb include surrounding suburbia and
 
 Walking and cycling were therefore excluded from our scope, as well as motorbikes, taxis and all private vehicles.
 
-We have not included door-to-door or special-purpose vehicles because these categories were not homogeneously reported across the board. 
+We have not included door-to-door or special-purpose vehicles because these categories were not homogeneously reported across the board.
+
+The analysis and results shown in DW's piece were eventually limited to buses, trams and metros. 
 
 <b>Areas:</b> We collected local data in three areas:
 1. Transport
