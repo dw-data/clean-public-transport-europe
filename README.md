@@ -44,7 +44,9 @@ In some cases, we relied on secondary sources:</p>
 - UITP's ASSURED Clean Bus Report (8 data points in 'Transport data'). UITP is the International Association of Public Transport <a href="https://www.uitp.org/publications/assured-clean-bus-report/">link</a>
 - CDP Full Cities Public Data & Separated by Question datasets (56 data points in 'Transport data' and 8 data points in 'Pollution'; modes of transport shares). CDP is a global non-profit running an environmental reporting system for cities and companies. These datasets are collected in partnership by CDP and ICLEI - Local Governments for Sustainability. <a href="https://data.cdp.net/">link</a>
 
-Each source can be consulted in our <a href="https://docs.google.com/spreadsheets/d/1sywULr1aubkJvq7QpE5pvA5-PYDNB_6mvGvqlmev5rM/edit?gid=1614902686#gid=1614902686">public database.</a> 
+Each data point and source can be consulted in our <a href="https://docs.google.com/spreadsheets/d/1sywULr1aubkJvq7QpE5pvA5-PYDNB_6mvGvqlmev5rM/edit?gid=1614902686#gid=1614902686">public database.</a> 
+
+Our calculations and analysis were done using Google Sheets tools, mainly pivot tables and formulas. The results, as shown in our charts, can also be consulted in the public database. 
 
 ## Analysis
 #### 1. Transport
@@ -81,13 +83,15 @@ biofuels = liquid biofuels including biodiesel, bioethanol, biodiesel, and bio-o
   </tr>
 </table> 
 
-While we also looked into distance covered and distance travelled, this information wasn't consistent across cities in terms of availability and city boundaries considered. We focused on number of vehicles in fleet as this was the parameter we found the most information on and which presented less challenges in terms of comparability than others. 
+Our research approach aimed to include as much information as we could find, while acknowledging that some parts may be left incomplete. 
+
+We focused on number of vehicles in fleet as this was the parameter we found the most information on and which presented less challenges in terms of comparability than others. While we also looked into distance covered and distance travelled, this information wasn't consistent across cities in terms of availability and city boundaries considered. 
 
 Electric buses include battery electric buses, fuel cell buses, untracapacitor buses and electric trolley buses.
 
 Non-diesel buses include vehicles powered by electricity, hybrid systems, hydrogen, biofuels, compressed natural gas (CNG) or biomethane.
 
-<b>Caveats</b>: 
+<i>Caveats</i>: 
 
 Ostrava: While there are currently no diesel buses actively in operation, the city still includes diesel buses in its statistics because they keep them as backup vehicles. This might lead to small difference in vehicles reported and vehicles active in the city.
 
@@ -95,14 +99,50 @@ Madrid: Metro Madrid accounts its fleet by number of wagons: 2085 at 31 december
 
 Berlin: Similarly to Madrid, Germany's capital also accounts wagons: 1216 is their most recent figure. It is equivalent to 150 trains in peak hour. 
 
-Dublin:
+Dublin: DART, the urban rail system, was initially missing in our research. 
+
+Stockholm: Additional data points on the bus lines came in past the data collection deadline. 
 
 #### 2. Pledges
-From the pledges we identified, we selected those concerning "buses", "all transport", and "ferries". Since our analysis focused solely on assessing ambition and commitment toward net-zero emissions, we excluded pledges on "metro" and "tram," as these modes of transport do not produce direct GHG emissions.
+We identified 148 pledges in over 100 reports. We analysed the 97 pledges made between 2016 and 2026 that explicitly and directly targeted transport sustainability. We left out commitments where cleaner transport would be a consequence, but not an objective per se. 
 
-While reviewing, we ensured no duplicates were taken in account. Pledges too vague (eg. lacking a target and/or goal year) were excluded. 
+Many pledges were sourced from reports found in the <a href='https://urban-mobility-observatory.transport.ec.europa.eu/sustainable-urban-mobility-plans/member-state-profiles_en?prefLang=de'>EU Urban Mobility Observatory</a> and the <a href='https://urban-mobility-observatory.transport.ec.europa.eu/sustainable-urban-mobility-plans/eu-city-database-sumps_en?prefLang=de'>EU city database on Sustainable Urban Mobility Plans</a>. 
 
-We scored pledges aiming for net-zero emissions according to the following table:
+We occasionally used <a href='https://github.com/freedmand/semantra'>Semantra</a>, a semantic search engine, to find pledges across a few reports.
+
+Data dictionary (key terms, more in the database):
+<table>
+  <tr>
+    <td>type of transport</td>
+    <td>buses, metro, tram, urban rail. other transport may include ferries. automobiles (taxis) not in scope</td>
+  </tr>
+  <tr>
+    <td>pledge description</td>
+    <td>copy-paste of pledge</td>
+  </tr>
+  <tr>
+    <td>pledge category</td>
+    <td>The pledge's area of action in relation to the vehicles' emissions and their use.
+clean fleet: goals to reduce the pollution of existing vehicles;
+attracting new demand: goals to attract more passengers (indirect expected benefit: reducing pollution of private vehicle);
+depots and infrastructure: goals to reduce the pollution of garages and equivalents;
+procurement of new vehicles: goals related to less-polluting new vehicles;</td>
+  </tr>
+  <tr>
+    <td>year pledge</td>
+    <td>the year when the pledge was made</td>
+  </tr>
+  <tr>
+    <td>year goal</td>
+    <td>the year when the pledge should be accomplished</td>
+  </tr>
+  <tr>
+    <td>specificity</td>
+    <td>how clean, quantifiable and accountable the pledge is</td>
+  </tr>
+</table> 
+
+We then analysed the pledges for their specificity, labelling pledges with quantifiable goals, clear baselines and timelines as 'high'. Vague pledges that did not enable accountability were scored as 'low'. 
 
 
 
