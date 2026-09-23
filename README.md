@@ -148,18 +148,10 @@ We then analysed the pledges for their specificity, labelling pledges with quant
 
 Our data collection covered public transport emissions and pollution data. However, pollution data was only found for 17 cities and, among them, only one provided data on air pollution. At times, data was very inconsistent across sources (CDP, local authorities and operators). Eventually, we decided to focus on the broader context. 
 
-We relied on the European Environmental Agency' <a href='https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers?activeTab=570bee2d-1316-48cf-adde-4b640f92119b'>Total GHG emissions and removals in the EU</a> data, downloading GHG emissions for all EU countries in 1990 and 2024. 
+We relied on the European Environmental Agency' <a href='https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers?activeTab=570bee2d-1316-48cf-adde-4b640f92119b'>Total GHG emissions and removals in the EU</a> data, downloading GHG emissions for all EU countries in 1990 and 2024. The analysis can be consulted in this repository.
 
 ### Other data and sources
 
-Mode transport share in the 10 most populated EU Capitals. Source: CDP Full Cities Public Data Separated by Question datasets 2025 and 2024. The analysis can be consulted in the jupyter notebook in this repository. 
+Mode transport share in the 10 most populated EU Capitals. Source: CDP Full Cities Public Data Separated by Question datasets 2025 and 2024 <a href='https://data.cdp.net'>(link)</a>. The analysis can be consulted in the jupyter notebook in this repository. 
 
-PM2.5 emissions from heavy-duty vehicles and buses as well as non-exhaust PM2.5 road emissions. Source: EEA. The analysis can be consulted in the jupyter notebook in this repository.
-
-
-
-
-
-
- 
-Dublin
+PM2.5 emissions from heavy-duty vehicles and buses as well as non-exhaust PM2.5 road emissions. Source: EEA <a href='https://www.eea.europa.eu/en/analysis/publications/sustainability-of-europes-mobility-systems-2025/air-pollution/eu-27-pm2-5-transport-emissions-as-reported-to-the-convention-on-long-range-transboundary-air-pollution-lrtap-convention?activeTab=8a280073-bf94-4717-b3e2-1374b57ca99d'>(link)</a>. The analysis can be consulted in the jupyter notebook in this repository.
