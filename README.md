@@ -148,29 +148,16 @@ We then analysed the pledges for their specificity, labelling pledges with quant
 
 Our data collection covered public transport emissions and pollution data. However, pollution data was only found for 17 cities and, among them, only one provided data on air pollution. At times, data was very inconsistent across sources (CDP, local authorities and operators). Eventually, we decided to focus on the broader context. 
 
-We relied on the European Environmental Agency' Total GHG emissions and removals in the EU data, downloading GHG emissions for all EU countries in 1990 and 2024. 
-### Sources
+We relied on the European Environmental Agency' <a href='https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers?activeTab=570bee2d-1316-48cf-adde-4b640f92119b'>Total GHG emissions and removals in the EU</a> data, downloading GHG emissions for all EU countries in 1990 and 2024. 
 
-Each data collector 
+### Other data and sources
 
-CDP Full Cities Public Data Separated by Question datasets. CDP is a global non-profit running an environmental reporting system for cities and companies. These datasets are collected in partnership by CDP and ICLEI - Local Governments for Sustainability.
+Mode transport share in the 10 most populated EU Capitals. Source: CDP Full Cities Public Data Separated by Question datasets 2025 and 2024. The analysis can be consulted in the jupyter notebook in this repository. 
 
-We retrieved data in our three target areas for 20xx to 2025 found under the following questions:
-- "Report the total emissions, fleet size and number of vehicle types for the following modes of transport"
-- "Provide details of your jurisdiction's energy-related and other environment-related targets active in the reporting year."
+PM2.5 emissions from heavy-duty vehicles and buses as well as non-exhaust PM2.5 road emissions. Source: EEA. The analysis can be consulted in the jupyter notebook in this repository.
 
-2025 and 2024 datasets were not acce
 
-Although most transport data were formally structured, the qualitative aspect of pledges data along with the frequent changes in question names and numbers, city identifiers and cities included, and the rich information embedded in the comment fields led us to opt for manual data collection in these two questions. 
 
-For the years 20xx to 2018, we ran data queries on CDP's browser, filtered by:
-- CDP Region: Europe
-- Question Name: Please provide the total fleet size and number of vehicle types
-- Column Name: Number of Buses
-
-EEA: 
-https://www.eea.europa.eu/en/datahub/datahubitem-view/3b7fe76c-524a-439a-bfd2-a6e4046302a2
-https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers?activeTab=570bee2d-1316-48cf-adde-4b640f92119b
 
 
 
