@@ -83,7 +83,7 @@ biofuels = liquid biofuels including biodiesel, bioethanol, biodiesel, and bio-o
   </tr>
 </table> 
 
-Our research approach aimed to include as much information as we could find, while acknowledging that some parts may be left incomplete. 
+Our research approach aimed to include as much information as we could find, while acknowledging that some parts may be left incomplete. We identified over 1,200 data points and analysed over 700.
 
 We focused on number of vehicles in fleet as this was the parameter we found the most information on and which presented less challenges in terms of comparability than others. While we also looked into distance covered and distance travelled, this information wasn't consistent across cities in terms of availability and city boundaries considered. 
 
@@ -144,9 +144,11 @@ procurement of new vehicles: goals related to less-polluting new vehicles;</td>
 
 We then analysed the pledges for their specificity, labelling pledges with quantifiable goals, clear baselines and timelines as 'high'. Vague pledges that did not enable accountability were scored as 'low'. 
 
+#### 3. Pollution
 
+Our data collection covered public transport emissions and pollution data. However, pollution data was only found for 17 cities and, among them, only one provided data on air pollution. At times, data was very inconsistent across sources (CDP, local authorities and operators). Eventually, we decided to focus on the broader context. 
 
-
+We relied on the European Environmental Agency' Total GHG emissions and removals in the EU data, downloading GHG emissions for all EU countries in 1990 and 2024. 
 ### Sources
 
 Each data collector 
