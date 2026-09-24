@@ -38,7 +38,7 @@ The analysis and results shown in DW's piece were eventually limited to buses, t
 
 ## Data collection and sources
 
-<p>Each data collector was assigned a number of cities. Transport, pledges and pollution data were collected from city councils, local transport authorities and operators via publicly displayed information (websites, annual reports), and e-mail and phone requests. 
+<p>Each data collector was assigned a number of cities. Transport, pledges and pollution data were collected from city councils, local transport authorities and operators via publicly displayed information (websites, annual reports), and e-mail and phone requests. Our research approach aimed to include as much information as we could find, while acknowledging that some parts may be left incomplete. 
   
 In some cases, we relied on secondary sources:</p>
 - UITP's ASSURED Clean Bus Report (8 data points in 'Transport data'). UITP is the International Association of Public Transport <a href="https://www.uitp.org/publications/assured-clean-bus-report/">link</a>
@@ -83,7 +83,7 @@ biofuels = liquid biofuels including biodiesel, bioethanol, biodiesel, and bio-o
   </tr>
 </table> 
 
-Our research approach aimed to include as much information as we could find, while acknowledging that some parts may be left incomplete. We identified over 1,200 data points and analysed over 700.
+We identified over 1,200 data points and analysed over 700.
 
 We focused on number of vehicles in fleet as this was the parameter we found the most information on and which presented less challenges in terms of comparability than others. While we also looked into distance covered and distance travelled, this information wasn't consistent across cities in terms of availability and city boundaries considered. 
 
