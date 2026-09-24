@@ -160,8 +160,8 @@ PM2.5 emissions from heavy-duty vehicles and buses as well as non-exhaust PM2.5 
 
 The code used in this analysis was written by the author. For all of our analyses, if any portion of the code is LLM-generated, this is flagged in the script. 
 
-All code and calculations in this project have been reviewed pre-publication by both the author as well as a second person to ensure quality.
+LLMs have been used to detect and fix bugs in our code and formulas. All code and calculations in this project have been reviewed pre-publication by both the author as well as a second person to ensure quality.
 
-LLMs have been used to detect and fix bugs in our code and formulas. LLMs have also been occasionally used to research and find primary sources. Only information from primary sources, and exceptionally from the secondary sources mentioned above, has been included. 
+LLMs have also been occasionally used to research and find primary sources. Only information from primary sources, and exceptionally from the secondary sources mentioned above, has been included. 
 
 Should you have any questions or notice errors or inconsistencies, please reach out to data-team@dw.com 
