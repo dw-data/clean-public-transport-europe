@@ -152,6 +152,16 @@ We relied on the European Environmental Agency' <a href='https://www.eea.europa.
 
 ### Other data and sources
 
-Mode transport share in the 10 most populated EU Capitals. Source: CDP Full Cities Public Data Separated by Question datasets 2025 and 2024 <a href='https://data.cdp.net'>(link)</a>. The analysis can be consulted in the jupyter notebook in this repository. 
+Mode transport share in the 10 most populated EU Capitals. Source: CDP Full Cities Public Data Separated by Question datasets 2025 and 2024 <a href='https://data.cdp.net'>(link)</a>. The analysis can be consulted in the jupyter notebook in this repository.
 
 PM2.5 emissions from heavy-duty vehicles and buses as well as non-exhaust PM2.5 road emissions. Source: EEA <a href='https://www.eea.europa.eu/en/analysis/publications/sustainability-of-europes-mobility-systems-2025/air-pollution/eu-27-pm2-5-transport-emissions-as-reported-to-the-convention-on-long-range-transboundary-air-pollution-lrtap-convention?activeTab=8a280073-bf94-4717-b3e2-1374b57ca99d'>(link)</a>. The analysis can be consulted in the jupyter notebook in this repository.
+
+### Quality control disclaimer
+
+The code used in this analysis was written by the author. For all of our analyses, if any portion of the code is LLM-generated, this is flagged in the script. 
+
+All code and calculations in this project have been reviewed pre-publication by both the author as well as a second person to ensure quality.
+
+LLMs have been used to detect and fix bugs in our code and formulas. LLMs have also been occasionally used to research and find primary sources. Only information from primary sources, and exceptionally from the secondary sources mentioned above, has been included. 
+
+Should you have any questions or notice errors or inconsistencies, please reach out to data-team@dw.com 
