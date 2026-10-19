@@ -16,6 +16,8 @@ Together with EDJNet partners (Deník Referendum, Voxeurop, EUrologus, OBCT), we
   </li>
 </ul>
 
+Stories: DW's in <a href='https://www.dw.com/en/data-analysis-cleaner-electric-transportation-environment-health-not-hitting-eu-emissions-targets/a-79406721'>English</a>, <a href='https://www.dw.com/es/qu%C3%A9-tan-ecol%C3%B3gico-es-el-transporte-p%C3%BAblico-urbano-en-europa/a-79643299'>Spanish</a> | <a href='https://denikreferendum.cz/clanek/239472-dataanalyza-evropska-mesta-prechazeji-na-elektrobusy-nektera-ale-zaostavaji'>Deník Referendum</a> 
+
 ## Scope
 <b>Geographical scope:</b> All EU capitals and a few additional cities chosen by our partners (Antwerp, Lyon, Brno, Ostrava, Košice, Prešov).
 
