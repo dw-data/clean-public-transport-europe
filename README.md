@@ -101,7 +101,9 @@ Madrid: Metro Madrid accounts its fleet by number of wagons: 2085 at 31 december
 
 Berlin: Similarly to Madrid, Germany's capital also accounts wagons: 1216 is their most recent figure. It is equivalent to 150 trains in peak hour. 
 
-Dublin: DART, the urban rail system, was initially missing in our research. 
+Dublin: DART, the urban rail system, was initially missing in our research.
+
+Copenhagen, Paris, Riga and Vienna: While we became aware that tram and/or metro run in these cities, data was not included in our analysis; either because it wasn't public or because it wasn't comparable. 
 
 Stockholm: Additional data points on the bus lines came in past the data collection deadline. 
 
